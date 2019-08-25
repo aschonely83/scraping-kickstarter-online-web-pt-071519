@@ -16,6 +16,6 @@ def create_project_hash
   end
   projects
 end
-© 2019 GitHub, Inc.
+
 
  
