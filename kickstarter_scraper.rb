@@ -19,7 +19,5 @@ def create_project_hash
     }
   end
  
-  # return the projects hash
-  projects
+ 
 end
-We did it! Run the test suite and you shou
